@@ -1,11 +1,12 @@
+import { SafeResourceUrl } from "@angular/platform-browser";
+
 export class Live {
-    constructor(
-        id: string,
-        liveName: string,
-        channelName: string,
-        liveDate: string,
-        liveTime: string,
-        liveLink: string,
-        registrationDate: string,
-    ){}
+    id: string;
+    liveName: string;
+    channelName: string;
+    liveDate: string;
+    liveTime: string;
+    liveLink: string;
+    registrationDate: string;
+    urlSafe: SafeResourceUrl;
 }
