@@ -20,7 +20,7 @@ git clone https://github.com/henriquepython/my-app.git
 
 ```bash
 ## entrar pasta projeto
-cd myapp
+cd my-app
 ```
 ## 2 passo
 
