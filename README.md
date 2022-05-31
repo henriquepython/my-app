@@ -10,6 +10,7 @@ A parte backend está em desenvolvimento.
 ##
 - Typescript 
 - Angular
+- Angular Material
 
 #
 # Como usar
