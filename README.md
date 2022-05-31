@@ -15,15 +15,13 @@ Este projeto foi feito com [Angular CLI](https://github.com/angular/angular-cli)
 ## 1 passo
 ### clonar repositório
 ```bash
-git clone https://github.com/henriquepython/nestwithgraph.git
+git clone https://github.com/henriquepython/my-app.git
 ```
 
 ```bash
 ## entrar pasta projeto
 cd myapp
 ```
-
-
 ## 2 passo
 
 ```bash
@@ -34,11 +32,8 @@ npm install
 # executar o projeto
 ng serve
 
-# Acesso ao playground
+# Acesso
 http://localhost:4200/
 ```
 
 #
-# Autor
-
-João Henrique Batista Cerqueira
