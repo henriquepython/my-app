@@ -1,6 +1,8 @@
 # Sobre
 
 Este projeto foi feito com [Angular CLI](https://github.com/angular/angular-cli) versão 13.3.5.
+Corresponde a prte front-end do projeto.
+A parte backend está em desenvolvimento.
 
 #
 # Tecnologias
